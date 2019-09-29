@@ -7,7 +7,7 @@ If you use this source code please cite:
 MOEA/D algorithm proposed by Prof. Qingfu Zhang and Prof. Hui Li, which can be download from [here](https://dces.essex.ac.uk/staff/zhang/webofmoead.htm)  
 
 ```Q.  Zhang and  H. Li,  MOEA/D: A Multi-objective Evolutionary Algorithm Based on Decomposition, IEEE Trans. on Evolutionary Computation, vol.11, no. 6, pp712-731  2007```
-# How to run MOEA-MCD?
+# Example usage:
 ```matlab
 cd path     %go to the path of the source files
 MOEA-MCDemo %run the demo
