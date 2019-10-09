@@ -2,7 +2,7 @@
 MOEA-MCE is an image matting algorithm using multiobjective evolutionary optimization based on fuzzy multicriteria evaluation and decomposition  
 
 If you use this source code please cite:  
-```Han Huang, Yihui Liang*, Xiaowei Yang, Zhifeng Hao. Pixel-level Discrete Multiobjective Sampling for Image Matting, IEEE Transactions on Image Processing, 2019,27(8):3739-3751.```
+```Yihui Liang, Han Huang*, Zhifeng Hao, Zhaoquan Cai. Multiobjective Evolutionary Optimization Based on Fuzzy Multicriteria Evaluation and Decomposition for Image Matting, IEEE Transactions on Fuzzy Systems. (2019) 27(5): 1100-1111.```
 # Dependance
 MOEA/D algorithm proposed by Prof. Qingfu Zhang and Prof. Hui Li, which can be download from [here](https://dces.essex.ac.uk/staff/zhang/webofmoead.htm)  
 
