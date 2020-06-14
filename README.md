@@ -1,5 +1,5 @@
 # MOEA-MCD
-MOEA-MCE is an image matting algorithm using multiobjective evolutionary optimization based on fuzzy multicriteria evaluation and decomposition  
+MOEA-MCD is an image matting algorithm using multiobjective evolutionary optimization based on fuzzy multicriteria evaluation and decomposition  
 
 If you use this source code please cite:  
 ```Yihui Liang, Han Huang*, Zhifeng Hao, Zhaoquan Cai. Multiobjective Evolutionary Optimization Based on Fuzzy Multicriteria Evaluation and Decomposition for Image Matting, IEEE Transactions on Fuzzy Systems. (2019) 27(5): 1100-1111.```
